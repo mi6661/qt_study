@@ -1,0 +1,15 @@
+# node
+**/node_modules/
+**/dist/
+*.log
+
+# IDE / 系统
+**/.vscode/
+**/.idea/
+
+# cmake build 文件夹
+**/build/
+
+
+# 忽略.DS_Store
+**/.DS_Store
