@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/C C++/Qt/Study/Example1_1/build/unknown-Debug/CMakeFiles/Example1_1.dir/embed.manifest"
