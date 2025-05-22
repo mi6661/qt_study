@@ -22,9 +22,14 @@ public:
 
 private slots:
     void on_btn_start_clicked();
+    void timeoutSlot();
+    void on_btn_stop_clicked();
+
+    void on_btn_single_clicked();
 
 private:
     Ui::Widget *ui;
     QTimer *timer;
+    int pic_id;
 };
 #endif // WIDGET_H

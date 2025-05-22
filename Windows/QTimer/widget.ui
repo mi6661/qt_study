@@ -25,6 +25,9 @@
    <property name="text">
     <string/>
    </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="btn_start">
    <property name="geometry">
@@ -39,7 +42,7 @@
     <string>开始</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_2">
+  <widget class="QPushButton" name="btn_stop">
    <property name="geometry">
     <rect>
      <x>320</x>
@@ -50,6 +53,19 @@
    </property>
    <property name="text">
     <string>暂停</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btn_single">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>390</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>单次</string>
    </property>
   </widget>
  </widget>
