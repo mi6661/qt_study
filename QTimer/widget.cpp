@@ -12,3 +12,9 @@ Widget::~Widget()
 {
     delete ui;
 }
+
+void Widget::on_btn_start_clicked()
+{
+
+}
+
